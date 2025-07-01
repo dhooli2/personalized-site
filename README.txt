@@ -1,0 +1,1 @@
+React + Vite + Tailwind project for Personalized AI Solutions landing page.
